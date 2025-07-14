@@ -8,6 +8,8 @@
 
 Projeto desenvolvido durante o evento **NLW Agents** da Rocketseat. Um sistema inteligente de salas de perguntas e respostas que utiliza inteligência artificial para transcrever áudios e gerar respostas contextuais baseadas no conteúdo transcrito.
 
+https://github.com/user-attachments/assets/b9d9b71d-e61e-446b-85cc-7ad007052ce8  
+
 ## 🎯 Propósito do Projeto
 
 O **Ask Me Anything AI Agent** é uma aplicação full-stack que permite:
